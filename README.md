@@ -19,4 +19,4 @@ railway init
 railway add --database postgres
 
 # Deploy
-railway up
+railway up - Deployed 
